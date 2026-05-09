@@ -13,6 +13,8 @@
 
 **Palavras-chave:** Algoritmos. Ordenação. Concorrência. Java. Desempenho.
 
+link github: https://github.com/rxdrigocrn/CompParalelaAV2
+
 ---
 
 ## Resumo
