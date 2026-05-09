@@ -8,7 +8,7 @@
 
 <br>
 
-**Autor 1:** Rodrigo Cirino Cavalcante Lima 
+**Autor 1:** Rodrigo Cirino
 **Autor 2:** Erfon Spanos
 
 **Palavras-chave:** Algoritmos. Ordenação. Concorrência. Java. Desempenho.
