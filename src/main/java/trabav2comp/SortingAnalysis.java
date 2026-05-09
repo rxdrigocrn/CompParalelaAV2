@@ -14,7 +14,7 @@ public class SortingAnalysis {
     private static final int SAMPLES = 5;
 
     public static void main(String[] args) throws IOException {
-        FileWriter csvWriter = new FileWriter("resultados_performance.csv");
+        FileWriter csvWriter = new FileWriter("src/main/java/trabav2comp/resultados_performance.csv");
         csvWriter.append("Algoritmo,Tamanho,Threads,Amostra,TempoMS\n");
 
         System.out.println("Iniciando Benchmarks... Isso pode demorar alguns minutos.");

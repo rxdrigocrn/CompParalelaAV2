@@ -29,7 +29,7 @@ public class GraficoSwing extends JPanel {
     private void carregarDados() {
         Map<String, Map<Integer, List<Integer>>> agrupador = new HashMap<>();
 
-        try (BufferedReader br = new BufferedReader(new FileReader("resultados_performance.csv"))) {
+        try (BufferedReader br = new BufferedReader(new FileReader("src/main/java/trabav2comp/resultados_performance.csv"))) {
             String linha = br.readLine(); // Pula o cabeçalho
             while ((linha = br.readLine()) != null) {
                 String[] colunas = linha.split(",");
